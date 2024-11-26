@@ -1,1 +1,1 @@
-# flatmates
+# FlatMates
